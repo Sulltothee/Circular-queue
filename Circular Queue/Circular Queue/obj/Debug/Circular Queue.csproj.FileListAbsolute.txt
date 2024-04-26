@@ -1,0 +1,10 @@
+C:\Users\rando\Documents\Code Projects\Circular Queue\Circular Queue\bin\Debug\Circular Queue.exe.config
+C:\Users\rando\Documents\Code Projects\Circular Queue\Circular Queue\bin\Debug\Circular Queue.exe
+C:\Users\rando\Documents\Code Projects\Circular Queue\Circular Queue\bin\Debug\Circular Queue.pdb
+C:\Users\rando\Documents\Code Projects\Circular Queue\Circular Queue\obj\Debug\Circular Queue.csproj.AssemblyReference.cache
+C:\Users\rando\Documents\Code Projects\Circular Queue\Circular Queue\obj\Debug\Circular_Queue.Form1.resources
+C:\Users\rando\Documents\Code Projects\Circular Queue\Circular Queue\obj\Debug\Circular_Queue.Properties.Resources.resources
+C:\Users\rando\Documents\Code Projects\Circular Queue\Circular Queue\obj\Debug\Circular Queue.csproj.GenerateResource.cache
+C:\Users\rando\Documents\Code Projects\Circular Queue\Circular Queue\obj\Debug\Circular Queue.csproj.CoreCompileInputs.cache
+C:\Users\rando\Documents\Code Projects\Circular Queue\Circular Queue\obj\Debug\Circular Queue.exe
+C:\Users\rando\Documents\Code Projects\Circular Queue\Circular Queue\obj\Debug\Circular Queue.pdb
